@@ -4,6 +4,6 @@
 
 - 🖥️ Work at Codify Ltd
 - ⌨️ Primarily code in C#
-- 🚁 Build anything from apps, to websites, to drones
+- 🚁 Build anything from apps, to websites, to games, to drones
 - 🎮 Gamer
 - 🚵‍♂️ Mountain Biker
