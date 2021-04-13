@@ -5,5 +5,5 @@
 - 🖥️ Work at Codify Ltd
 - ⌨️ Primarily code in C#
 - 🚁 Build anything from apps, to websites, to games, to drones
-- 🎮 Gamer
+- 🎮 Keen Gamer & Indie Developer
 - 🚵‍♂️ Mountain Biker
