@@ -5,7 +5,7 @@
 - 🖥️ Senior Software Engineer at Codify Ltd
 - ⌨️ Primarily code in C#
 - 🚁 Build anything from apps, to websites, to games, to drones
-- 🎮 Keen Gamer & Indie Developer
+- 🎮 Gamer & Indie Developer
 - 🚵‍♂️ Mountain Biker
 
 <a href="https://stackoverflow.com/users/3088793/bolt19">
