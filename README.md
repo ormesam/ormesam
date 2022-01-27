@@ -8,6 +8,8 @@
 - 🎮 Gamer & Indie Developer
 - 🚵‍♂️ Mountain Biker
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ormesam&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <a href="https://stackoverflow.com/users/3088793/bolt19">
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>&nbsp;&nbsp;
