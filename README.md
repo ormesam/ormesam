@@ -5,7 +5,7 @@
 - 🖥️ Senior Software Engineer at Codify Ltd
 - ⌨️ Primarily code in C#
 - 🚁 Build anything from apps, to websites, to games, to drones
-- 🎮 Gamer & Indie Developer
+- 🎮 Gamer & Indie Developer: [ShadowVR Discord](https://discord.gg/MVuN3J3vRy)
 - 🚵‍♂️ Mountain Biker
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ormesam&date_format=M%20j%5B%2C%20Y%5D&background=010409&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=DDDDDD)](https://git.io/streak-stats)
