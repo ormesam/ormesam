@@ -21,3 +21,7 @@
 <a href="https://twitter.com/Bolt15">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
+
+<a href="https://www.youtube.com/channel/UCiFfuuLm8oiO9Z9C2svUeqg">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>&nbsp;&nbsp;
