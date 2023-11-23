@@ -2,7 +2,7 @@
 
 **I'm a .NET developer working in Aberdeen, UK.**
 
-- 🖥️ Senior Software Engineer at Codify Ltd
+- 🖥️ Head of Software Development at Salus Technical
 - ⌨️ Primarily code in C#
 - 🚁 Build anything from apps, to websites, to games, to drones
 - 🎮 Gamer & Indie Developer: [Out of the Shadows](https://outoftheshadowsvr.com)
