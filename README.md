@@ -8,8 +8,6 @@
 - 🎮 Gamer & Indie Developer: [Out of the Shadows](https://outoftheshadowsvr.com)
 - 🚵‍♂️ Mountain Biker
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ormesam&date_format=M%20j%5B%2C%20Y%5D&background=010409&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=DDDDDD)](https://git.io/streak-stats)
-
 <a href="https://stackoverflow.com/users/3088793/bolt19">
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>&nbsp;&nbsp;
