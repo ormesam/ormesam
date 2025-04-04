@@ -6,4 +6,5 @@
 - ⌨️ Primarily code in C#
 - 🚁 Build anything from apps, to websites, to games, to drones
 - 🎮 Gamer & Indie Developer: [Out of the Shadows](https://outoftheshadowsvr.com)
+- 👶 Father
 - 🚵‍♂️ Mountain Biker
